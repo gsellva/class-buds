@@ -1,0 +1,12 @@
+# Holds real names and WhatsApp numbers: never commit it.
+*.db
+*.db-journal
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+.vercel
+.env*
